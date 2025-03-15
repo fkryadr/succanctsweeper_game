@@ -1,12 +1,27 @@
-# React + Vite
+# Succinct Branded Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## This game is basically is minesweeper like on stake.
 
-Currently, two official plugins are available:
+# How to Play :
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Chooose mine from 1 to 10
+![image](https://github.com/user-attachments/assets/e07b9b7f-8247-4211-ba28-a0ed89d20e58)
 
-## Expanding the ESLint configuration
+## Pick the box (avoid the succanct) its a bomb so you lose
+![image](https://github.com/user-attachments/assets/62012917-0e47-4bda-be02-1c50a71a4ea4)
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## You will see your final score when you hit the succanct
+![image](https://github.com/user-attachments/assets/9fcdb33f-40e3-4761-b92d-8d3103ba7aa2)
+## Simply just dont get the succanct for higher score
+![image](https://github.com/user-attachments/assets/b3ad3eed-6f2b-48f2-b2a0-cb9663bc28f8)
+
+
+## Assets from 
+https://succinctlabs.notion.site/Succinct-Crisis-of-Trust-Assets-197e020fb42f804d9e1be894cd0f260c
+
+## The game is not perfect, still can't prove the score (Gotta Study the SP1 first) and will updated when i can.
+
+Made with love by : Serenade
+
+Discord : Serenadee
+Twitter : https://x.com/0xxavix
