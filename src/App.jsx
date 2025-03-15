@@ -101,7 +101,10 @@ function App() {
         icon: 'error',
         confirmButtonText: 'Play Again',
       }).then(() => {
-        setMine(); // Reset the game
+        // Add a delay before resetting the game
+        setTimeout(() => {
+          setMine(); // Reset the game after 0.5 second
+        }, 500); // 1000ms = 1 second
       });
     } else if (openedBox.includes(num)) {
       // Show "Box already opened" alert using SweetAlert2
