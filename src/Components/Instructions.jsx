@@ -8,6 +8,8 @@ const Instructions = () => {
         <li>👉 Choose Difficulty by choosing hidden mine count: <b className='text-green-500'>1 to 10 (1-5 for kids) </b></li>
         <li>👉 Tap the Box</li>
         <li>👉 If you hit the box and see Succanct BOOOM !! Game Over💥</li>
+        <li>NOT INTEGRATED YET WITH SP-1 (GOTTA STUDY SP-1 FIRST)</li>
+        <li>Made with ❤️ by Serenadee</li>
       </ul>
     </div>
   )
